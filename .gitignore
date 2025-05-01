@@ -1,0 +1,21 @@
+# https://dart.dev/guides/libraries/private-files
+# Created by `dart pub`
+.dart_tool/
+
+pubspec.lock
+
+# IDEs
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Android Studio specific
+local.properties
+
+.wakatime-project
+.wakatime.cfg
+
+hive/
