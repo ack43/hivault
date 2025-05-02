@@ -18,4 +18,5 @@ local.properties
 .wakatime-project
 .wakatime.cfg
 
+# hide for tests and examples
 hive/
